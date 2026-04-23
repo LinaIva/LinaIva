@@ -17,5 +17,5 @@ I'm Lina, a Computer Science student, creative programmer and aspiring software 
 - learning more about backend and game development   
 
 ## 🤍
-- always open to learning, creating and trying new things
+always open to learning, creating and trying new things
 
