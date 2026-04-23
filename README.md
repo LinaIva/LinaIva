@@ -1,6 +1,5 @@
 ## Hi there!
 
-<!--
 I'm Lina, a Computer Science student, creative programmer and aspiring software engineer 💻  
 
 ## 💫 About me
@@ -19,4 +18,4 @@ I'm Lina, a Computer Science student, creative programmer and aspiring software 
 
 ## 🤍
 - always open to learning, creating and trying new things
--->
+
