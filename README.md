@@ -2,9 +2,9 @@
 
 I'm Lina, a Computer Science student, creative programmer and aspiring software engineer
 
-## 💫 About me
+## ✨ About me
 - studying Computer Science 
-- exploring game development with Unreal Engine 5
+- interested in backend development, AI and game development
 
 ## 🌿 When I'm not coding you can find me:
 - playing piano, drums or singing
@@ -14,7 +14,8 @@ I'm Lina, a Computer Science student, creative programmer and aspiring software 
 
 ## 🌱 Currently
 - improving my development skills  
-- learning more about backend and game development   
+- exploring AI-assisted development workflows
+- building personal and university projects
 
 ## 🤍
 always open to learning, creating and trying new things
