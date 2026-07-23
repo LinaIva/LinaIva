@@ -4,13 +4,12 @@ I'm Lina, a Computer Science student, creative programmer and aspiring software 
 
 ## ✨ About me
 - studying Computer Science 
-- interested in backend development, AI and game development
+- interested in backend and backend development, AI and game development
 
 ## 🌿 When I'm not coding you can find me:
 - playing piano, drums or singing
 - writing my own songs
 - skateboarding or snowboarding
-- learning Spanish
 
 ## 🌱 Currently
 - improving my development skills  
