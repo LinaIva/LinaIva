@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm Lina, a Computer Science student, creative programmer and aspiring software engineer
+I’m Lina, a Computer Science student and aspiring software engineer who enjoys building useful and interesting projects.
 
 ## ✨ About me
 - studying Computer Science 
